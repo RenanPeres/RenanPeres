@@ -19,7 +19,7 @@ Feel free to explore it and contact me:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPeres&layout=compact&langs_count=7&theme=dark)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=university-projects)
 
 <div align="center">
   <a href="https://github.com/RenanPeres">
