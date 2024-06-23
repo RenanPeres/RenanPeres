@@ -7,14 +7,14 @@ Feel free to explore it and contact me:
 
  
 <div align="right"> 
-  <a href="https://github.com/RenanPeres">
-    <img src="https://img.icons8.com/material-sharp/24/000000/book.png"/>
   <a href = "mailto:renanperes99@alumni.usp.br" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-peres-martins/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://huggingface.co/renanperes/" target="_blank">
     <img src="https://img.shields.io/badge/-Hugging%20Face-%230A0A0A?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank"></a> 
+  <a href="https://github.com/RenanPeres/RenanPeres/tree/main/thesis">
+    <img src="https://img.shields.io/badge/-Thesis-%23333?style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
 <br>
