@@ -26,5 +26,5 @@ Feel free to explore it and contact me:
   <a href="https://github.com/RenanPeres">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPeres&langs_count=4&layout=compact&theme=radical"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenanPeres&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,prs"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=RenanPeres/thesis"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=RenanPeres"/>
 </div>
