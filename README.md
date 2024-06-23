@@ -10,7 +10,7 @@ Feel free to contact me on the links below:
   <a href="https://www.linkedin.com/in/renan-peres-martins/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://huggingface.co/renanperes/" target="_blank">
-    <img src="https://img.shields.io/badge/-Hugging%20Face-%230A0A0A?style=for-the-badge&logo=huggingface&logoColor=white" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/-Hugging%20Face-%230A0A0A?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank"></a> 
 </div>
 
 <br>
