@@ -14,7 +14,7 @@ Feel free to explore it and contact me:
   <a href="https://huggingface.co/renanperes/" target="_blank">
     <img src="https://img.shields.io/badge/-Hugging%20Face-%230A0A0A?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank"></a> 
   <a href="https://github.com/RenanPeres/RenanPeres/tree/main/thesis">
-    <img src="https://img.shields.io/badge/-Thesis-%23333?style=for-the-badge&logo=latex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Thesis-%23333?style=for-the-badge&logo=latex&logoColor=green"/>
 </div>
 
 <br>
