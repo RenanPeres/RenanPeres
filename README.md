@@ -18,8 +18,8 @@ Feel free to explore it and contact me:
 <br>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPeres&layout=compact&langs_count=7&theme=dark)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanPeres&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=university-projects)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanPeres&show_icons=true&theme=radical&hide=stars,prs)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=university-projects) -->
 
 <div align="center">
   <a href="https://github.com/RenanPeres">
