@@ -13,6 +13,8 @@ Feel free to explore it and contact me:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://huggingface.co/renanperes/" target="_blank">
     <img src="https://img.shields.io/badge/-Hugging%20Face-%230A0A0A?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank"></a> 
+ <a href="https://github.com/RenanPeres">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=RenanPeres&theme=radical"/>
 </div>
 
 <br>
@@ -26,5 +28,4 @@ Feel free to explore it and contact me:
   <a href="https://github.com/RenanPeres">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanPeres&langs_count=4&layout=compact&theme=radical"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenanPeres&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,prs"/>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=RenanPeres&theme=radical"/>
 </div>
