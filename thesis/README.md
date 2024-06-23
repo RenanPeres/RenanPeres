@@ -4,8 +4,8 @@
 
  
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-  <h2>Sentiment Analysis for Portuguese: Fine-Tuning of Contextual Word Embedding Models</h3>
-  <p>(Bachelor's thesis project in Computer Engineering)</p>
+  <h2>Sentiment Analysis for Portuguese: Fine-Tuning of Contextual Word Embedding Models <p>(Bachelor's thesis project in Computer Engineering)</p> </h2>
+  
   <p><i>Refinement of a contextual machine learning model (Google BERT) for the Portuguese language.</i>i></p>
   <p>You can find more information about and test it by yourself accessing:</p>
   <a href="https://huggingface.co/renanperes/" target="_blank">
