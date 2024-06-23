@@ -1,4 +1,4 @@
-## Hi, I'm Renan, a B. Sc. Computer Engineering from University of São Paulo (USP) with over 3 years of professional experience as a software engineer 
+## Hi, I'm Renan, /ta B. Sc. Computer Engineering from University of São Paulo (USP) with over 3 years of professional experience as a software engineer 
 ### Personally, I think technology as a transformative approach in education, health and social empowerment.
 
 This is my GitHub as a diary of evolution for my projects and adventures in the world of technologies!
