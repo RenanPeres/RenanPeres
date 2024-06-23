@@ -17,6 +17,7 @@ Feel free to explore it and contact me:
 
 <br>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 <div align="center">
   <a href="https://github.com/RenanPeres">
   <img height="145" src="https://github-readme-stats.vercel.app/api?username=RenanPeres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
