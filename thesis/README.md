@@ -1,10 +1,12 @@
 # Here are my published theses and research throughout my academic experience
 
-### Feel free to explore and get in touch
+ Feel free to explore and get in touch
 
  
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-  <h2>Sentiment Analysis for Portuguese: Fine-Tuning of Contextual Word Embedding Models</h2>
+   <ul>
+    <h2>Sentiment Analysis for Portuguese: Fine-Tuning of Contextual Word Embedding Models</h2>
+  </ul>
   <p>(Bachelor's thesis project in Computer Engineering)</p>
   <p><i>Fine-Tuning oof a contextual machine learning model (Google BERT) for the Portuguese language, using reviews from a mobile app store. The refinement uses reviews as training input and contextualizes this inputs based on app categories, aiming for reduced resource consumption in context creation.</i></p>
   <p>You can find more information about and test it by yourself accessing:</p>
