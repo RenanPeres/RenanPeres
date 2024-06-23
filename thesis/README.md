@@ -1,0 +1,13 @@
+## Here are my published theses and research throughout my academic experience
+
+### Feel free to explore and get in touch
+
+ 
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
+  <h3>Sentiment Analysis for Portuguese: Fine-Tuning of Contextual Word Embedding Models</h3>
+  <p>(Bachelor's thesis project in Computer Engineering)</p>
+  <p>Refinement of a contextual machine learning model (Google BERT) for the Portuguese language.</p>
+  <p>You can find more information about and test it by yourself accessing:</p>
+  <a href="https://huggingface.co/renanperes/" target="_blank">
+    <img src="https://img.shields.io/badge/-Hugging%20Face-%230A0A0A?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank"></a> 
+</div>
