@@ -1,10 +1,9 @@
 ## Hi, I'm Renan, a B. Sc. Computer Engineering from University of São Paulo (USP) with over 3 years of professional experience as a software engineer 
-## Personally, I think technology as a transformative approach in education, health and social empowerment.
+### Personally, I think technology as a transformative approach in education, health and social empowerment.
 
 This is my GitHub as a diary of evolution for my projects and adventures in the world of technologies!
-Feel free to contact me on the links below:
  
-<div> 
+<div align="right"> 
   <a href = "mailto:renanperes99@alumni.usp.br" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-peres-martins/" target="_blank">
