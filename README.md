@@ -8,7 +8,7 @@ Feel free to explore it and contact me:
  
 <div align="right"> 
   <a href="https://github.com/RenanPeres">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=RenanPeres&theme=radical"/>
+    <img height="70em" src="https://github-readme-stats.vercel.app/api/pin/?username=RenanPeres&repo=RenanPeres&theme=radical"/>
   <a href = "mailto:renanperes99@alumni.usp.br" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-peres-martins/" target="_blank">
